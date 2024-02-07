@@ -163,7 +163,7 @@
       height="40"
     />
   </a>
-  <a href="https://vectorified.com/tfs-icon" title="tfs"
+  <a href="https://azure.microsoft.com/products/devops/server" title="tfs"
     ><img
       src="https://vectorified.com/images/tfs-icon-27.png"
       width="50"
