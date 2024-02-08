@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halil KAPLAN</h1>
+<h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">A passionate Frontend Developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **React** - 📫 How to reach me
