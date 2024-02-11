@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning **React** - 📫 How to reach me
 **halil-kaplan@windowslive.com**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/halil-kaplan" target="blank"
@@ -195,9 +200,3 @@
     alt="halil-kaplan"
   />
 </p>
-
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
