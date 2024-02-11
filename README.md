@@ -15,11 +15,6 @@
   /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
@@ -175,6 +170,11 @@
       align="top"
   /></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Halil-KAPLAN/Halil-KAPLAN/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <p>
   <img
