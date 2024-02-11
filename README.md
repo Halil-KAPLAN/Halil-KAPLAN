@@ -38,7 +38,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.sencha.com/products/extjs" target="_blank" rel="noreferrer">
     <img
       src="https://www.sencha.com/wp-content/uploads/2023/07/hero-center-img.svg"
       alt="extjs"
