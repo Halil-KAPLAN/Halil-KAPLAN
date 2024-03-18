@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">A passionate Frontend Developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **React** - 📫 How to reach me
+📫 How to reach me
 **halil-kaplan@windowslive.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
