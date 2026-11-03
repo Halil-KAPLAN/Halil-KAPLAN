@@ -10,6 +10,7 @@ Now building **tools for AI agents**: MCP servers, Claude Code extensions and br
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Drupal](https://img.shields.io/badge/-Drupal_Canvas-0678BE?style=flat-square&logo=drupal&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
@@ -25,11 +26,20 @@ Now building **tools for AI agents**: MCP servers, Claude Code extensions and br
 
 ## 🧩 Shipped Products
 
+- ♿ **[oorly](https://oorly.com)**: web accessibility widget and WCAG scanning platform, from the embeddable widget to the reporting dashboard (at Drupart)
 - 🌐 **[ProxyScout](https://github.com/Halil-KAPLAN/ProxyScout)**: browser extension that tests free proxies and switches you to a working one in one click<br>
   [Chrome](https://chromewebstore.google.com/detail/dldogmkmofnbapihicpkholeldcipmik) · [Edge](https://microsoftedge.microsoft.com/addons/detail/fmgnnkkdafjkkdfbohbgcgpblondogon) · [Firefox](https://addons.mozilla.org/firefox/addon/proxyscout/)
 - 📱 **Borusan Next İhale**: real-time vehicle auction app with live bidding over SignalR, mobile development led end to end at Smartiks<br>
   [App Store](https://apps.apple.com/tr/app/borusan-next-i-hale/id6738425041?l=tr) · [Google Play](https://play.google.com/store/apps/details?id=com.borusannextihale)
 - 💳 **[Kripto-Wallet](https://github.com/Halil-KAPLAN/Kripto-Wallet)**: React Native crypto wallet with token portfolio, swap and WalletConnect sessions
+
+## 🏛️ Drupal Websites
+
+Corporate and university sites built at Drupart with **Drupal Canvas**, Twig and Tailwind CSS, from Figma to production:
+
+- 🎓 **Universities & research:** [Arel University](https://arel.edu.tr) · [Sabahattin Zaim University](https://www.izu.edu.tr) (frontend lead) · [Istanbul Policy Center, Sabancı University](https://ipc.sabanciuniv.edu) · [Drupal4Edu](https://drupal4edu.com)
+- 🏢 **Corporate:** [Çelebi Investor Relations](https://www.celebiyatirimci.com) (tech lead) · [GOSB Teknopark](https://gosbteknopark.com) · [Good Sanitation Company](https://goodsanitationcompany.com) · [Drupart](https://www.drupart.com.tr)
+- 🎙️ **Media:** [Arab Center Podcast Platform](https://podcast.dohainstitute.org)
 
 ## 🧪 Side Projects
 
@@ -39,7 +49,7 @@ Now building **tools for AI agents**: MCP servers, Claude Code extensions and br
 ## 💼 Experience
 
 - **Frontend Team Lead** · [Drupart](https://www.drupart.com.tr) · 2025 – now<br>
-  Angular and React architectures for healthcare, education and media projects; Keycloak, code review and team standards
+  Drupal Canvas sites for universities and companies; Angular and React apps for healthcare, education and media; code review and team standards
 - **Mobile & Frontend Developer** · Smartiks · 2024 – 2025<br>
   React Native (Expo) auction app, CMS web and mobile apps
 - **Senior Frontend Developer** · beqom (Switzerland, remote) · 2012 – 2024<br>
