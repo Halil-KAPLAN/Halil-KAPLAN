@@ -74,3 +74,5 @@ Built at Drupart with Angular, Remix and React:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Halil-KAPLAN/Halil-KAPLAN/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Halil-KAPLAN/Halil-KAPLAN/output/github-contribution-grid-snake.svg">
 </picture>
+
+<sub>Most of my day-to-day work happens on Drupart's self-hosted GitLab. The dates of my GitLab commits are mirrored to this contribution graph through <a href="https://github.com/Halil-KAPLAN/gitlab-activity-sync">gitlab-activity-sync</a>, as empty commits with no source code.</sub>
