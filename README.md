@@ -1,7 +1,8 @@
 # Hi, I'm Halil 👋
 
 **Frontend Team Lead** at [Drupart](https://www.drupart.com.tr) · 15+ years shipping web & mobile UIs<br>
-Now building **tools for AI agents**: MCP servers, Claude Code extensions and browser extensions.
+At work: corporate and university websites built with **Drupal Canvas** and Tailwind CSS.<br>
+After hours: **tools for AI agents**, from MCP servers to Claude Code and browser extensions.
 
 📍 Kocaeli, Türkiye · 💼 [LinkedIn](https://www.linkedin.com/in/halil-kaplan/) · 📫 [halil-kaplan@windowslive.com](mailto:halil-kaplan@windowslive.com)
 
