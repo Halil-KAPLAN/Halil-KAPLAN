@@ -27,7 +27,6 @@ After hours: **tools for AI agents**, from MCP servers to Claude Code and browse
 
 ## 🧩 Shipped Products
 
-- ♿ **[oorly](https://oorly.com)**: web accessibility widget and WCAG scanning platform, from the embeddable widget to the reporting dashboard (at Drupart)
 - 🌐 **[ProxyScout](https://github.com/Halil-KAPLAN/ProxyScout)**: browser extension that tests free proxies and switches you to a working one in one click<br>
   [Chrome](https://chromewebstore.google.com/detail/dldogmkmofnbapihicpkholeldcipmik) · [Edge](https://microsoftedge.microsoft.com/addons/detail/fmgnnkkdafjkkdfbohbgcgpblondogon) · [Firefox](https://addons.mozilla.org/firefox/addon/proxyscout/)
 - 📱 **Borusan Next İhale**: real-time vehicle auction app with live bidding over SignalR, mobile development led end to end at Smartiks<br>
@@ -36,11 +35,26 @@ After hours: **tools for AI agents**, from MCP servers to Claude Code and browse
 
 ## 🏛️ Drupal Websites
 
-Corporate and university sites built at Drupart with **Drupal Canvas**, Twig and Tailwind CSS, from Figma to production:
+Built at Drupart with **Drupal Canvas**, Twig and Tailwind CSS, from Figma to production:
 
-- 🎓 **Universities & research:** [Arel University](https://arel.edu.tr) · [Sabahattin Zaim University](https://www.izu.edu.tr) (frontend lead) · [Istanbul Policy Center, Sabancı University](https://ipc.sabanciuniv.edu) · [Drupal4Edu](https://drupal4edu.com)
-- 🏢 **Corporate:** [Çelebi Investor Relations](https://www.celebiyatirimci.com) (tech lead) · [GOSB Teknopark](https://gosbteknopark.com) · [Good Sanitation Company](https://goodsanitationcompany.com) · [Drupart](https://www.drupart.com.tr)
-- 🎙️ **Media:** [Arab Center Podcast Platform](https://podcast.dohainstitute.org)
+- ♿ **[oorly](https://oorly.com)**: web accessibility widget and WCAG scanning platform, from the embeddable widget to the reporting dashboard
+- 🛰️ **[TÜRKSAT](https://www.turksat.com.tr)**: corporate website for Türkiye's satellite operator; frontend development and technical leadership
+- 🎓 **[Arel University](https://arel.edu.tr)**: redesigned website for İstanbul Arel University
+- 🎓 **[Sabahattin Zaim University](https://www.izu.edu.tr)**: corporate website; frontend architecture, team standards and code review
+- 🏛️ **[Istanbul Policy Center](https://ipc.sabanciuniv.edu)**: Sabancı University's policy research center, with publications, research, events and people profiles
+- 📚 **[Drupal4Edu](https://drupal4edu.com)**: platform showing how universities and schools can build on Drupal
+- 🏭 **[GOSB Teknopark](https://gosbteknopark.com)**: corporate redesign for a technology park
+- 💧 **[Good Sanitation Company](https://goodsanitationcompany.com)**: corporate and product website for water, sanitation and hygiene solutions
+- 🎙️ **[Arab Center Podcast](https://podcast.dohainstitute.org)**: podcast platform with likes, saved episodes and OAuth sign-in
+- 🏢 **[Drupart](https://www.drupart.com.tr)**: agency website rebuilt with scroll-driven animations and motion
+
+## 🖥️ Web Apps & Portals
+
+Built at Drupart with Angular, Remix and React:
+
+- 🏥 **[Medipol Hospital Online Appointments](https://online.medipol.com.tr)**: appointment booking for patients and physicians; Remix, React, Tailwind CSS, Keycloak and Zod
+- 🩺 **[Sehatok](https://www.sehatok.com)**: Arabic health portal with disease guides, consultations and health calculators; frontend architecture lead, Angular and RxJS
+- ⚽ **[winwin.com](https://www.winwin.com)**: sports news portal for the Arab world with live scores and analysis; Angular and Tailwind CSS
 
 ## 🧪 Side Projects
 
